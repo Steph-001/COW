@@ -1,0 +1,108 @@
+[Event "Aggressive Repertoire for White"]
+[Site "https://lichess.org/study/I5492O7E/Bo1HWRbf"]
+[Date "2023.01.26"]
+[White "EZ French"]
+[Result "*"]
+[Annotator "Jesse"]
+[UTCDate "2023.07.01"]
+[UTCTime "16:22:51"]
+[Variant "Standard"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+
+1. e4 e6 2. d4 d5 3. e5 { Strategy: Our pawn chain points to the kingside, our
+side of the board, where we would like to attack. It's our side because it's
+easier for us to transfer force (pieces) there. This means that we are ok with
+making weaknesses there, for we have the juice to defend them. And we want black
+to give us something (anything $1) there (on the kingside) for us to sink our
+teeth into. Black's pawns point to the queenside. Black will need to make drama
+there and against our d4 point to avoid getting mated. Making things easy: Like
+our 3.e5 vs the Caro we dramatically limit black's options. By contrast the
+traditional 3. Nc3 allows the Winawer (Bb4) and Steinitz (Nf6) both of those
+will give black the kind of trench warfare that encouraged them to play the
+French in the first place. 3. Nd2 allows even more options, with 3...c5; 3...Nf6
+and even 3...Be7. Style: For hundreds of years white players have tried to make
+an attacking formation with Nf3 and Bd3 work. It's now possible. } 3... c5 4. c3 Nc6 (4... Qb6 5. Nf3 Bd7 { intending to trade his bad bishop for ours at the cost
+of time } 6. Bd3 { a rule of thumb: the second we play Bd3 we are thinking about
+dc } 6... cxd4 (6... Bb5 7. dxc5 $1 { [%c_effect c5;square;c5;type;GreatFind;persistent;true] } 7... Bxc5 8. b4 $1 { [%c_effect b4;square;b4;type;GreatFind;persistent;true] } 8... Bxd3 (8... Bxf2+ $2 { [%c_effect f2;square;f2;type;Mistake;persistent;true] } 9. Ke2 $18 { the bishop can't
+escape $1 }) (8... Be7 9. Be3 $1 { [%c_effect e3;square;e3;type;GreatFind;persistent;true] } 9... Qa6 (9... Qc6 10. Nd4 $18) 10. Bc2 $1 { no trade for you $1 } { [%c_effect c2;square;c2;type;GreatFind;persistent;true] } 10... Nh6 11. a4 Bc4 12. Na3 { Our bad knight finds a job $1 } 12... Nd7 13. b5 Qa5 14. Nxc4 dxc4 15. O-O $18 { Black's queen is cut from the defense, and no, she
+can't take c3 as Bd2 traps the lady. We have the bishops, black's Nh6 is
+terrible and 0-0 isn't possible yet because Nd7 is hanging. }) 9. Qxd3 Be7 10. O-O $16 { black has grief developing their pieces and the king is a long way from
+safety }) 7. Nxd4 { We prevent black's idea and prepare to bring our queen to our
+strong side. } 7... Bc5 8. Qg4) 5. Nf3 Qb6 (5... Bd7 { When I first developed
+the EZ system against the French I didn't even consider this move. It's not
+intuitive to this French player that we know the bishop belongs here. } 6. dxc5 (6. Be2 { is the traditional move, but we are not interested in consolidating our
+center, we want to blow the position open for an attack }) 6... Bxc5 7. b4 Bb6 8. b5 { At the cost of a weak c-pawn we forcibly win the battle for e5 and blunt
+black's d7 bishop. SPARRING POSITI $146 } 8... Na5 9. Bd3 { with a classic
+aggressive repertoire setup. Note that black's only hope - now that he's lost
+the battle for the center and the force count on the k-side - is to pound c3 and
+make our knight on b1 poor. Here are some sample lines } 9... Ne7 (9... Rc8 10. O-O Nc4 $2 { the most natural
+move and it's important to understand why it's wrong: black allows us to fix our
+worst piece. } { [%c_effect c4;square;c4;type;Mistake;persistent;true] } 11. a4 Ne7 12. Nbd2 Nxd2 13. Bxd2 h6 14. Nd4 O-O 15. Qg4 { Classic attacking play against the French: our lady has arrived to our strong
+side and our force count (attacking power vs defensive power) is greatly in our
+favor. }) 10. O-O Rc8 11. a4 Qc7 12. Ba3 Bc5 13. Nbd2 { We get black's good
+bishop and will look to build our attack }) (5... cxd4 $6 { This is a mistake as it allows us
+to fix our problematic piece, the knight on b1. } { [%c_effect d4;square;d4;type;Inaccuracy;persistent;true] } 6. cxd4 Nge7 (6... Qb6 7. Nc3 Nge7 8. Bd3 Bd7 9. Be3 $16 Qxb2 10. Nb5 $18) 7. Nc3 Nf5 8. Be3 Bd7 9. Bd3 Nxe3 10. fxe3 Be7 11. O-O { with a nice attack }) 6. Bd3 $1 { The following idea came to me in a
+dream $1 I've played the French for years and was trying to imagine what my tribe
+finds especially unpleasant. We don't mind the bad bishop, we console ourselves
+with the mantra: \"There's no such thing as bad bishops, only bad players.\" And
+we obviously don't mind having less space. What we don't like is when things
+blow up and we lose control $1 In 2020 I published a video called \"an EZ system
+against the French.\" Since then it's been played by Magnus Carlsen and many
+other top GMs - I'm stunned every time I think of something that came from my
+head landing in Carlsen's $1The system has been developed and tested since then. } { [%c_effect d3;square;d3;type;GreatFind;persistent;true] } 6... cxd4 (6... Bd7 $2 { a
+common mistake that you will face many times } { [%c_effect d7;square;d7;type;Mistake;persistent;true] } 7. dxc5 $1 { It's hard for French players to
+appreciate the problem because it feels like white just gave them some free
+development. But Bc5 is in fact unstable and black has lost their counterplay
+against d4. } { [%c_effect c5;square;c5;type;GreatFind;persistent;true] } 7... Bxc5 8. O-O { White has acheived their attacking formation and
+black will find it difficult to hold onto their best piece, the dark square
+bishop. SPARRING POSITI $146 } 8... a5 (8... Nge7 $2 { [%c_effect e7;square;e7;type;Mistake;persistent;true] } 9. b4 $18 { welcome to the dojo }) (8... f6 9. b4 Be7 10. Re1 fxe5 (10... Nxe5 11. Nxe5 fxe5 12. Qh5+ Kf8 13. Qxe5 { Black's king will be scrambling for the rest of the game. }) 11. b5 { Our
+knight is going to land on e5, and black's king won't have time to get out of
+Dodge. } 11... Na5 12. Nxe5 { Look at this beautiful knight $1 Again: if black wants
+to play f6 they have to be able to fight for the e5 square. } 12... Nf6 13. Bg5 { that poor bishop on d7 $1 } 13... Rd8 14. Bxf6 Bxf6 15. Qh5+ g6 16. Bxg6+ $18 { with
+a winning attack }) 9. Nbd2 { We find employment for our one bad minor. } 9... a4 10. b4 $1 { Black now
+either retreats into a hole or allows our knight to b3. } { [%c_effect b4;square;b4;type;GreatFind;persistent;true] } 10... axb3 (10... Be7 11. b5 Na5 (11... Nd8 12. c4 $18 { Again: we look to bust the position open when
+they are down in time because the value of time goes up as the position opens. }) 12. Qxa4 $18 { Note the cruelty is not that we won the pawn but that we will
+transfer the lady to our strong side next. }) 11. Nxb3 Nge7 { We are gauranteed a
+great game because we can trade our worst minor for their best whenever we want } 12. Rb1 { Black has a lot of problems. }) 7. O-O $1 { [%c_effect g1;square;g1;type;GreatFind;persistent;true] } (7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 { The Milner-Barry gambit which I've faced many
+times, this was the kind of unpleasantness my French tribe doesn't like and the
+inspiration for our System against the French. }) 7... Bd7 (7... dxc3 $6 { Against the Caro and
+French our queenside knight is our worst piece. We have to find creative ways to
+employ the nag. This move turns him into a beast. } { [%c_effect c3;square;c3;type;Inaccuracy;persistent;true] } 8. Nxc3 { SPARRING POSITI $146 } 8... Nge7 (8... Bd7 9. Be3 Qd8 (9... Qxb2 $2 { this greed will be punished } { [%c_effect b2;square;b2;type;Mistake;persistent;true] } 10. Nb5 Rc8 { only move } 11. a3 $1 { intending Rb1 and then Re1-e2, trapping the queen } { [%c_effect a3;square;a3;type;GreatFind;persistent;true] } 11... a6 12. Rb1 Qa2 13. Nc3 Qxa3 14. Rb3 Qe7 (14... Qa5 15. Bb6 $18 { queen gone }) 15. Rxb7 { Black should try
+developing in their next game. } 15... Na5 16. Ra7 Rxc3 17. Bd2 $1 { [%c_effect d2;square;d2;type;GreatFind;persistent;true] } 17... Rxd3 18. Ra8+ Bc8 19. Qa4+ { Black is going to get mated. }) 10. Rc1 Nge7 11. Bg5 $1 $13 { It's hard for black to move. } { [%c_effect g5;square;g5;type;GreatFind;persistent;true] } 11... h6 $2 { nope } { [%c_effect h6;square;h6;type;Mistake;persistent;true] } 12. Nb5 $18 { Give me your queen or king. }) 9. Be3 Qd8 (9... Qa5 10. Re1 Ng6 11. Bd2) 10. Bg5 { Hard for black to move. } 10... h6 $2 { nope } { [%c_effect h6;square;h6;type;Mistake;persistent;true] } 11. Nb5 $1 { Black's king will have to go for a
+walk. } { [%c_effect b5;square;b5;type;GreatFind;persistent;true] }) 8. Re1 { Let's talk for a moment about this move and the old school idea
+of overprotection. Imagine you are black's king, castling short is the only
+viable long term haven. But you'll never be safe with the pawn on e5, the pawn
+gives white the ability to increase our force count on the kingside, our side of
+the board, exactly where you, the black king, are dreaming of hiding. That is
+why white must foresee black wanting f6 at some point. That break will give
+black the option of defending their king laterally, with say the queen on c7 or
+a rook on f7. Therefore our overprotection of e5 isn't just about protecting a
+pawn, we want our force to be ready to flow through that square when black does
+play f6. You can think of e5 as the sharp point of our spear. } 8... Nge7 (8... f6 $6 { This move usually
+won't work before black has castled. } { [%c_effect f6;square;f6;type;Inaccuracy;persistent;true] } 9. cxd4 $1 { Now we really control e5 and our
+bad knight will be looking to go to c3. clickable variation } { [%c_effect d4;square;d4;type;GreatFind;persistent;true] } 9... Nxd4 $2 { Black has to resist this
+temptation } { [%c_effect d4;square;d4;type;Mistake;persistent;true] } 10. Nxd4 Qxd4 11. Bg6+ $18 { whoops }) (8... Rc8 9. Nbd2 { A key idea
+for our system: we creatively find a role for our bad knight. } 9... dxc3 10. bxc3 { Black is days away from castling while all of our pieces are working.
+Note that our dangling c3 pawn dominates black's c6 knight which means that
+black owes a tempo there too. clickable variation } 10... Nh6 (10... Na5 11. Rb1 Qc7 12. c4 $1 { Again: when
+we are up in time we want to open the position. Appreciate as well how this move
+forces black to activate our poor d2 knight. } { [%c_effect c4;square;c4;type;GreatFind;persistent;true] } 12... Nxc4 (12... dxc4 13. Bc2 { Na5 is now out and our d2 knight now has e4. Ng5 will balso be hard to deal
+with. A creative way to think about playing against the French structure is to
+say: it's worth a pawn or two if we can prevent f6. Without f6 black's king will
+be like a lonesome scuba diver in a shark tank. }) 13. Bxc4 dxc4 14. Ne4) 11. Rb1 Qc7 12. Nb3 Be7 13. Bf4 $1 { An instructive move: we are not
+interested in black's miserable Nh6 and we overprotect our e5 point. } { [%c_effect f4;square;f4;type;GreatFind;persistent;true] } 13... O-O 14. Qd2 $18 { No f6 for you, buddy. Black is going to get mated. }) 9. h4 $1 { The main point of this
+move is to prevent black's awkward knight on e7 from finding a post on g6. We
+especially don't like it there as black will then fight for our e5 strongpoint.
+SPARRING POSITI $146 } { [%c_effect h4;square;h4;type;GreatFind;persistent;true] } 9... Rc8 (9... Nf5 10. Bxf5 exf5 11. cxd4 $14 { we are up in
+time and aim to fight on the dark squares } 11... Be7 12. Nc3 Be6 13. Bg5 $1 { We trade black's good
+bishop and aim to play on the dark squares, with plans like Na4-c5 and Ne2-f4. } { [%c_effect g5;square;g5;type;GreatFind;persistent;true] }) (9... dxc3 $6 { Again:
+our worst piece is Nb1 and dc fixes him. } { [%c_effect c3;square;c3;type;Inaccuracy;persistent;true] } 10. Nxc3 Rc8 11. Be3 Qd8 (11... Qxb2 $2 { [%c_effect b2;square;b2;type;Mistake;persistent;true] } 12. Nb5 Ng6 13. Rb1 Qxa2 14. Ra1 Qb2 15. Re2 Qb4 16. Ra4 $18 { Black's queen is run out of town. } 16... Qe7 17. Nd6+ Kd8 18. Nxb7+ Kc7 19. Rb2 $18 { black is getting mated }) 12. Nb5 Ng6 13. Bg5 $16 { Black's queen has no good home. And we are about to evict the knight on
+g6. }) 10. h5 $1 { we keep
+the engine of our attack going by preventing Ng6 and the natural development of
+black's pieces } { [%c_effect h5;square;h5;type;GreatFind;persistent;true] } 10... h6 11. Nbd2 { Note the simplicity of our play: we held the
+tension with the d-pawn because we were never afraid of dc, because it would fix
+our knight, pinning black's pieces down with each move. And now we employ the
+main idea of the system, turning our bad knight into a dream piece. } 11... dxc3 { Black will have to do it soon. Nb3 next will certainly encourage dc. } 12. bxc3 Na5 13. Rb1 Qc7 14. Ba3 $1 { [%c_effect a3;square;a3;type;GreatFind;persistent;true] } 14... Qxc3 15. Nb3 $13 { we have
+full compensation for our two pawns: black's K will never be safe and Rh8 won't
+be able to participate in the coming struggle. } *

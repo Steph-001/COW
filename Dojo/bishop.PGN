@@ -1,0 +1,167 @@
+[Event "Aggressive Repertoire for White"]
+[Site "lichess.org"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "Bishop's Opening"]
+[Black "?"]
+[Result "*"]
+[ECO "C28"]
+[Annotator "Jesse"]
+[PlyCount "29"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.03.27"]
+
+1. e4 e5 2. Bc4 { A romantic move with many fresh ideas for the attacking player.
+Strategy: The setup is simple, we point our pawn chain to the kingside with d3
+and then start charging with f4. Note the similarities to a King's Indian -
+Instead of d6-e5 and then f5 we have d3-e4 and then f4. Note also that in
+contrast to a Kings Indian our bishop is outside the pawn chain and that we get
+our f4 break with much less fuss. Let's also take a moment to think about the
+dreaded London system: the Bishop's opening is a mirror image of the London $1
+First, notice how the pointing of the pawns changes the flavor of the game
+entirley. We will be attacking the kingside and the king. In the traditional
+London white aims for a nagging yank on the queenside. Like with the London
+though, a key art of our play will be how we deal with black harassing our
+bishop on c4 (in the London the bishop is of course of f4). We will need to be
+creative and flexible. Like with the London it's important to undertand that
+while our Bc4 looks pretty, our dark square bishop is our best piece. Bc1 moves
+easily through our pawn chain. He is the mortar and the pawns are the bricks.
+Making things easy: The Bishop's opening avoids the dreariness of names like
+Petroff, Berlin and Marshall. It's much less known and explored than traditional
+2. Nf3 lines. After learning a couple forcing lines the white player should
+expect to develop a general feel as to where the pieces go. We use the same pawn
+structure (d3-e4 with a later f4) - with our light square bishop outside the
+chain - against the Sicilian. So we are aiming for a familiarity with early
+middlegame attacking setups and dynamics. Style: Expect violence. The bishop's
+opening, and every other opening in our aggressive repertoire, is not designed
+to give us some small advantage that only the computer understands. The
+repertoire aims to create an attack, with extreme danger and lack of balance for
+both sides. } ({ clickable variation This move will transpose, so the practical
+player might wish to mix it up with this move order and the dogmatist might wish
+to play it on principle (\"knights before bishops $1\"). } 2. Nc3) 2... Nf6 (2... Bc5 { This move will transpose to either 2...Nc6 or 2...Nf6. }) (2... Nc6 3. Nc3 Bc5 { Nf6 will transpose to lines with 2...Nf6 } 4. Qg4 $1 { This position is highly tactical
+and we MUST know the following variations } { [%c_effect g4;square;g4;type;GreatFind;persistent;true] } 4... Qf6 (4... Nd4 $5 { [%c_effect d4;square;d4;type;Interesting;persistent;true] } 5. Qxg7 Qf6 6. Qxf6 Nxf6 7. Bd3 $1 $14 { [%c_effect d3;square;d3;type;GreatFind;persistent;true] } ({ clickable
+variation } 7. Bb3 $2 { [%c_effect b3;square;b3;type;Mistake;persistent;true] } 7... Rg8 8. g3 d6 $13 { black has good compensation because we have no easy way to
+challenge Nd4 }) 7... Rg8 8. g3 d6 9. Nce2 $14 { We evict black's strong knight. }) (4... Kf8 { now black's king will be hunted } 5. Qf3 Nf6 (5... Qf6 $2 { a natural move you will certainly
+face } { [%c_effect f6;square;f6;type;Mistake;persistent;true] } 6. Nd5 Qxf3 { thank you for developing my knight $1 } 7. Nxf3 Bb6 8. d3 { with
+a fanastic position, we lead in development and the threat of a4-a5 will be very
+unpleasant. }) 6. Nge2 $41 { Black has no compensation for their misplaced king }) (4... d5 { In typical double-king pawn fashion black tries to punish our greed
+with active piece play and development. This try doesn't work, but it comes
+close. We now have to be very careful. } 5. Qxg7 dxc4 6. Qxh8 Qg5 7. d4 $1 { Two of us can play to
+punish an early queen move $1 } { [%c_effect d4;square;d4;type;GreatFind;persistent;true] } 7... Qxg2 8. dxc5 Bh3 { This looks like a great
+shot, black threatens to castle long and to play Qf1 but it is black who will
+have to call the ambulance $1 } 9. Bg5 $1 $18 { An elegant refutation of black's
+violence, cutting the queen from defending g8, preventing 0-0-0 and Rd8. We have
+to know this variation. } { [%c_effect g5;square;g5;type;GreatFind;persistent;true] }) 5. Nd5 $1 { This move is a real shocker,
+inviting black's queen in. } { [%c_effect d5;square;d5;type;GreatFind;persistent;true] } 5... Qxf2+ 6. Kd1 Kf8 $8 { The only move to defend
+against both Nc7 and Qg7. } 7. Nh3 Qd4 $8 { only square } 8. d3 d6 9. Qf3 $18 { Black
+has two problems: their Q is about to be trapped by c3 and they must worry about
+f7. clickable variation } 9... h5 ({ clickable variation } 9... Bxh3 10. gxh3 Qf2 11. Qxf2 Bxf2 12. Rf1 $18) 10. Ke1 Bg4 11. Qf1 { Black has pushed us back but
+hasn't solved either or their two problems. } 11... Nb4 12. c3 $18 { Welcome to the
+Dojo }) 3. Nc3 { for centuries this was thought to be unplayable(!) but we have a
+novel approach. 3.d3 is our alternate variation. } ({ alternate variation } 3. d3 { This is the traditional move order. Let's state the obvious: if you want to
+play this way you can't play 2. Nc3. } 3... c6 { normal moves like Nc6 or Bc5 will
+transpose back to our main lines } 4. Nf3 d5 { the struggle is now set: can black
+keep our light square bishop locked out $2 } 5. Bb3 Bd6 (5... Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nbd7 8. O-O O-O 9. Re1 Re8 10. d4 $1 $37 { Our development is better so we
+open the position. As the Dojo will repeat: the value of time goes up when the
+position opens. } { [%c_effect d4;square;d4;type;GreatFind;persistent;true] }) (5... a5 6. Nc3 $1 { [%c_effect c3;square;c3;type;GreatFind;persistent;true] } 6... d4 $2 { [%c_effect d4;square;d4;type;Mistake;persistent;true] } (6... Bb4 7. a3 Bxc3+ 8. bxc3 { With
+a dynamic position, black must try to keep the position closed, to not move the
+pawn on d5. We want to open everything for our bishops. The following is an
+interesting sample line. clickable variation } 8... a4 9. Ba2 Qd6 10. O-O O-O 11. Bg5 Nbd7 12. Nh4 Nc5 13. f3 $13 { black must try to keep the center closed and the
+bishop on a2 locked out, we want to blow it open when we are given the chance }) 7. Nxe5 dxc3 8. Nxf7 $18 { After we take the h8 rook our knight will continue to
+be a pest }) (5... dxe4 $2 { [%c_effect e4;square;e4;type;Mistake;persistent;true] } 6. Ng5 $16 { Forcing black to compromise their king's positon. }) 6. Nc3 dxe4 { While
+not a terrible move we should smile inwardly: our Bb3 is now free $1 } (6... d4 $6 { this common human move
+shows a poor understanding of chess and helps us visualize the dreams of our
+opening: We get a Kings Indian structure where our gives our normally bad bishop
+is very active (Bb3). } { [%c_effect d4;square;d4;type;Inaccuracy;persistent;true] } 7. Ne2 $41 { The following shows best play for both sides.
+Clickable variation } 7... O-O 8. O-O c5 9. Ng3 Nc6 10. Nh4 g6 11. h3 $1 $41 { It's always useful to
+control this square, we stop both a later Bg4 and Ng4. We have two basic plans
+here: Nf3-g5 and f4. The Dojo will also always check if Nhf5 works. The position
+will become hot. In the ensuing mess we DO NOT want to ever trade our dark
+square bishop. He is our best piece and the key to any attack. That is why for
+example we are not in a rush to play Bg5 or Bh6 as those moves set black up to
+trade their nasty bishop with Be7 and Bf8. } { [%c_effect h3;square;h3;type;GreatFind;persistent;true] }) 7. Ng5 $1 { They say that f7 is the weakest
+square on the board, we attack it like a caveman } { [%c_effect g5;square;g5;type;GreatFind;persistent;true] } 7... O-O (7... Bg4 8. Bxf7+ Ke7 9. f3 exf3 10. gxf3 Bf5 11. Bb3 $18 { we will castle queenside while black's
+king will never be safe }) 8. Ncxe4 Nxe4 9. dxe4 $1 { The exclam is for the type of
+aggressive repertoire game that we are creating. Nxe4 would be the positional
+way to play the position. } { [%c_effect e4;square;e4;type;GreatFind;persistent;true] } 9... h6 { black has to do something before our Q lands
+on h5 } (9... Bb4+ 10. c3 Qxd1+ 11. Kxd1 Be7 12. Be3 $14 { white is better developed
+and his king can be active on e2 or c2 }) 10. Nxf7 Rxf7 11. Bxf7+ Kxf7 12. Qh5+ { This is the type of question we like to give our opponent with our repertoire. } 12... Ke7 (12... Kg8 13. Bxh6 $1 { [%c_effect h6;square;h6;type;GreatFind;persistent;true] } 13... gxh6 14. Qg6+ Kf8 15. O-O-O $18 { black's lack of development and open king will lead to either loss of
+material or mate }) (12... Kf8 13. Bxh6 $18 gxh6 14. Qxh6+ Ke7 15. O-O-O $18 { black
+can't move. Clickable variations } 15... Be6 (15... Qc7 16. Rd3 Be6 17. Rhd1 { We
+split the board in two on the d-file, preventing black from bringing defensive
+resources to the king. } 17... Bc5 18. Qg5+ Ke8 19. Rd8+ $18 { Black is going to
+get mated, and isn't able to develop. }) 16. Qg5+ Ke8 17. Qxd8+ Kxd8 18. Rxd6+ Ke7 19. Rd3 $18 { Harry the h pawn is going to take a walk }) 13. Be3 Nd7 14. O-O-O $13 { black will struggle to consolidate his king's position }) 3... Nc6 (3... Nxe4 { Since the 1800s this move was thought to prevent white's move order $1 It's
+because Nxe4 doesn't solve all of black's problems that 2. Nc3 is an equivalent
+move order for us. } 4. Qh5 $1 { black must now trod an exact path } { [%c_effect h5;square;h5;type;GreatFind;persistent;true] } 4... Nd6 ({ UPDATE } 4... Ng5 $2 { Allowing us to develop with tempo. } { [%c_effect g5;square;g5;type;Mistake;persistent;true] } 5. d4 Ne6 6. dxe5 $41 { We have all the advantages $1 }) 5. Bb3 Be7 $1 { [%c_effect e7;square;e7;type;GreatFind;persistent;true] } (5... Nc6 $2 { many strong GMs have made this
+mistake } { [%c_effect c6;square;c6;type;Mistake;persistent;true] } 6. Nb5 $1 { [%c_effect b5;square;b5;type;GreatFind;persistent;true] } 6... g6 7. Qf3 f5 8. Qd5 Qe7 9. Nxc7+ Kd8 10. Nxa8 b6 { black obviously didn't want
+this position but we still need to be cautious due to our lack of development
+and tender queen } 11. Ne2 ({ clickable variation } 11. Nf3 $2 { An example of white not being
+cautious about their queen. } { [%c_effect f3;square;f3;type;Mistake;persistent;true] } 11... Bb7 12. d3 Nd4 $17 { is an example of how black
+can turn things around here }) 11... Bb7 12. Qd3 $1 { Get her worship out of danger $1 } { [%c_effect d3;square;d3;type;GreatFind;persistent;true] } 12... Bxa8 13. O-O $16 { Black can try many things here but ultimately we will
+eventually get our pieces out, if black's king were safe they might have
+compensation for the exchange }) 6. Qxe5 O-O 7. Nf3 Nc6 8. Qf4 { SPARRING
+POSITI $146. Black can try many different moves here, but the dynamic is simple:
+black has to do something about their d6 knight and while that circus horse is
+prancing about we will castle and use our lead in development to build an
+attack. }) (3... c6 $2 { you
+will get this common mistake, it only makes sense against the more conventional
+3.d3 - which is our alternate variation } { [%c_effect c6;square;c6;type;Mistake;persistent;true] } 4. d4 $1 $16 { because Nc6 is no longer possible
+we can blow black's center apart clickable variation } { [%c_effect d4;square;d4;type;GreatFind;persistent;true] } 4... d6 $2 { [%c_effect d6;square;d6;type;Mistake;persistent;true] } (4... exd4 5. Qxd4 d6 6. Bf4 Be7 7. O-O-O $18 { d6 will fall and our development lead is too strong }) 5. dxe5 dxe5 6. Bxf7+ $18) (3... Bc5 4. d3 d6 ({ UPDATE } 4... c6 { In addition to threatening d5
+this move also dominates our c3 knight. } 5. Qf3 { A standard white square
+attacking strategy where our g1 knight dreams of f5. } 5... d6 6. Nge2 O-O (6... b5 7. Bb3 a5 8. a4 b4 9. Nd1 $41 { We don't mind going backwards as c6 by black
+made our knight poor, now we will come to e3 and f5 }) (6... Be6 7. Bxe6 fxe6 8. Qh3 Qe7 9. f4 $41 { Black faces some tough questions here as taking on f4 will
+always be bad. Our next moves are natural: Rf1, Bd2, 0-0-0. }) 7. Bg5 Be6 (7... Nbd7 8. a3 $1 { We can
+slowly build here, leaving black to wonder: where we will castle, how to get rid
+of our Bc4, and how to meet Ng3-f5. } { [%c_effect a3;square;a3;type;GreatFind;persistent;true] }) 8. O-O-O $41 { with a beautiful attacking
+setup. }) 5. f4 ({ clickable variation } 5. Na4 { A positional bishop grabbing way
+to play the position, we are playing for mate. }) 5... O-O (5... Ng4 { we must
+always be ready to meet this unprincipled aggression } 6. f5 $1 { [%c_effect f5;square;f5;type;GreatFind;persistent;true] } 6... Nf2 (6... Qh4+ 7. g3 Qh5 (7... Bf2+ 8. Kf1 Bxg3 9. hxg3 Qxh1 10. Qxg4 $18 { the minors are much stronger
+than rooks at this phase of the game $1 Our attack will be too strong. }) 8. h3 $1 { [%c_effect h3;square;h3;type;GreatFind;persistent;true] } 8... Bxg1 9. Qxg4 $18 { our lead in development is too strong }) 7. Qh5 g6 (7... Qd7 8. Be6 Qe7 9. Nd5 $18 { it can end so quickly $1 }) (7... O-O 8. Nf3 Nxh1 9. Ng5 $18 { our attack is too
+strong, clickable variation } 9... h6 10. Nxf7 Rxf7 11. Qxf7+ Kh7 12. Qg6+ Kh8 13. Bxh6 Qf6 14. Qe8+ Kh7 15. Bg5 Qxg5 16. Qg8+ Kh6 17. Qh8#) 8. Qh6 $1 { [%c_effect h6;square;h6;type;GreatFind;persistent;true] } 8... Nxh1 9. Bg5 f6 10. fxg6 fxg5 11. Qg7 Rf8 12. gxh7 $18 { we will queen and the attack will
+continue }) 6. Nf3 Nbd7 { kind of weird but it shows what black is afraid of: the
+Bg5 pin - Nd7 supports f6 } (6... Nc6 { will transpose }) 7. fxe5 Nxe5 (7... dxe5 8. Qe2 $41 { we intend Be3, castles short and play for mate }) 8. Nxe5 dxe5 9. Qf3 $41 { we will develop Bc1, castle long and play for mate }) ({ UPDATE } 3... d6 { The
+Philidor. } 4. d3 Be7 5. f4 $41 { And we have a setup that we are familiar with. }) 4. d3 Bc5 (4... Na5 5. Qf3 $1 { SPARRING POSITI $146. With a very
+simple plan of building up an attack on the K-side. Again: we must be flexible
+in how we deal with our light square bishop being harassed. } { [%c_effect f3;square;f3;type;GreatFind;persistent;true] } 5... Nxc4 6. dxc4 d6 7. Nge2 Be6 8. b3 Be7 9. O-O O-O 10. Ng3 $41 { a model position for our opening:
+we control the light squares with pawns and our knights while our beast covers
+the dark }) (4... Bb4 5. Ne2 { SPARRING POSITI $146 } 5... d5 { This is the only move
+that gives Bb4 purpose. } 6. exd5 Nxd5 7. O-O Be6 8. Bxd5 Bxd5 9. f4 $1 { We bring Frederico the f-pawn and
+Rf1 into the attack while Bd5 isn't nailed down. } { [%c_effect f4;square;f4;type;GreatFind;persistent;true] } 9... O-O (9... exf4 10. Nxf4 Bxc3 11. bxc3 O-O 12. Qh5 $1 { Black must compromise their
+position and Nc6 is dominated by our pawn on c3. } { [%c_effect h5;square;h5;type;GreatFind;persistent;true] }) 10. Nxd5 Qxd5 11. f5 $41 { we
+intend Ng3-e4 }) (4... d6 5. f4 $14 { Giving us an easy game: we will castle and
+look to play f5. }) 5. f4 O-O { This is the variation the Dojo suggests for the
+black side, it's the most natural and contains many tricks. } (5... d6 6. f5 $1 { SPARRING POSITI $146: a
+very bold move: we cut black's access to g4 and claim that Bc8 is dead. Black
+must now react quickly or get mated. } { [%c_effect f5;square;f5;type;GreatFind;persistent;true] } 6... O-O $2 { Castling right into our attack. } { [%c_effect g8;square;g8;type;Mistake;persistent;true] } (6... Nd4 { aiming to lock our knight out with c6 } 7. Nf3 c6 8. Nxd4 Bxd4 (8... exd4 9. Ne2 $41 { The Dojo believes in white's attack, we will castle and have Ng3,
+Nh5 on our agenda. }) 9. Qf3 d5 10. Bb3 $41 { Black will eventually have to move the
+d-pawn and free our bishop, Bc8 is hemmed in, and the Dojo dreams of g4-g5. }) (6... Na5 { the most common human response. Note that our Bc4 is our bad bishop,
+but black finds him scary. We would probably also find him scary $1 } 7. Qf3 $1 { giving us options of
+g4-g5 and Be3 } { [%c_effect f3;square;f3;type;GreatFind;persistent;true] } 7... Nxc4 8. dxc4 Bd7 9. Nge2 Bc6 { Note how our pawns on light
+squares build a wall against their light square bishop. } 10. g4 $41 { We are going
+to roll black up. }) (6... h6 $5 { While this move prevents g5 it
+gives us a tempo and the dream of breaking open black's king with g4-g5. } { [%c_effect h6;square;h6;type;Interesting;persistent;true] } 7. Nf3 $41 { We have many ideas here: Na4 to steal the bishop and castle, Qe2/Be3 to
+castle and Nd5 as we see in our sample variation. Later we will aim for g4-g5.
+clickable variation } 7... a6 { To defang Na4 } 8. Nd5 $1 { To trade off black's best
+defender. } { [%c_effect d5;square;d5;type;GreatFind;persistent;true] } 8... Na5 9. b4 Nxd5 10. bxc5 Nf6 11. Bb3 dxc5 12. Nxe5 Nxb3 13. axb3 Qd4 14. Bf4 $18 { Conquest-Smejkal 1996, this position can be considered an ideal
+of our opening: pawn chain on light, point toward the kingside, unopposed bishop
+dominating the dark squares, black's minors caged, his king in trouble. }) (6... a6 7. a3 $1 $41 { We retain
+all the advantages of our position. } { [%c_effect a3;square;a3;type;GreatFind;persistent;true] }) (6... d5 7. Nxd5 Nxe4 8. Qg4 $1 $18 { When our lady lands on
+g7 black's f7, h8 and f6 will all be tender. This is the reason we can play f5
+after d6 but not 0-0 $1 } { [%c_effect g4;square;g4;type;GreatFind;persistent;true] }) 7. Bg5 $41 { Nd5 is coming next and black's kingside will
+be shattered clickable variation } 7... Nd4 8. Nd5 b5 9. Bb3 Bb7 10. Nxf6+ gxf6 11. Bh6 Kh8 12. Bxf8 Qxf8 13. Nf3 $16 { black has little compensation for losing
+the exchange }) 6. Nf3 ({ clickable variation } 6. f5 $2 { The question with the bold f5 push is
+always: Can black play d5 in response $2 Here they can. } { [%c_effect f5;square;f5;type;Mistake;persistent;true] } 6... d5 $1 { [%c_effect d5;square;d5;type;GreatFind;persistent;true] } 7. Nxd5 Nxe4 $1 $19 { don't fall for this $1 } { [%c_effect e4;square;e4;type;GreatFind;persistent;true] }) 6... exf4 (6... Ng4 { if black is going to play Ng4 then this is the position they should
+do it because d5 can be played with tempo } 7. Ng5 $1 { [%c_effect g5;square;g5;type;GreatFind;persistent;true] } 7... d5 $8 (7... d6 $2 { [%c_effect d6;square;d6;type;Mistake;persistent;true] } 8. f5 $41 { with an ideal attacking
+setup, Bc8 is locked out and it's impossible for black to stop white's queen
+arriving on h5 }) (7... Nf2 $2 { [%c_effect f2;square;f2;type;Mistake;persistent;true] } 8. Qh5 h6 9. Nxf7 $18 { we've seen
+this one before $1 }) (7... h6 { Note: whenever black makes this move our intuition
+should start dreaming about g4-g5. Ie. we view h6 as a possible lever to open
+the king's position. } 8. f5 $1 { [%c_effect f5;square;f5;type;GreatFind;persistent;true] } 8... Nf6 (8... Nf2 9. Qh5 Nxh1 (9... hxg5 10. Bxg5 Qe8 11. f6 Nxh1 12. Qg6 { Welcome to the Dojo }) 10. Nxf7 $18 { mate is coming }) 9. h4 $1 { This setup with the h-pawn is
+sometimes called the \"fishing pole.\" Black can never take the knight because
+he'll unleash Rh1 along the h-file, meanwhile we prepare g4-g5. } { [%c_effect h4;square;h4;type;GreatFind;persistent;true] } 9... d6 ({ clickable variation } 9... hxg5 10. hxg5 Ne8 11. Qh5 $18 { mate is coming }) 10. g4 $1 { We are going to
+roll black up. } { [%c_effect g4;square;g4;type;GreatFind;persistent;true] } 10... Qe8 11. Nxf7 Rxf7 12. g5 $18 { a pattern to know for our
+opening $1 }) 8. Nxd5 exf4 $8 9. Bxf4 h6 10. h3 $3 { We want to get either the queen to
+h5 or the rook open. } { [%c_effect h3;square;h3;type;Brilliant;persistent;true] } 10... Nge5 $1 { Black has to have a great sense of
+danger to play this modest move. } { [%c_effect e5;square;e5;type;GreatFind;persistent;true] } (10... Nf2 11. Qh5 Nxh1 ({ UPDATE } 11... b5 { On
+the one hand a very computer move that is hard to understand, but on the other
+b5 was a standard plan in the 1800s }))) *

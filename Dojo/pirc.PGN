@@ -1,0 +1,67 @@
+[Event "Chessable"]
+[Site "https://lichess.org/study/I5492O7E/sFLf5G0F"]
+[Date "2023.04.25"]
+[White "Pirc/Modern"]
+[Result "*"]
+[Annotator "Jesse"]
+[UTCDate "2023.07.01"]
+[UTCTime "23:24:43"]
+[Variant "Standard"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+
+1. e4 d6 (1... g6 { this is usually called The Modern, I think of it as a close
+cousin to the Pirc, black delays developing their g8 knight. } 2. d4 Bg7 3. Nc3 d6 (3... a6 4. Be3 b5 5. Qd2 Bb7 6. f3 d6 { transposes to 3...d6 }) 4. Be3 a6 5. Qd2 b5 { Not a bad option for those determined to get an aggressive and violent
+position as black. While the computer despises this position for black it scores
+quite well in human play. Let's talk about black's dreams: by delaying Nf6 black
+prevents any Bh6 plan and leaves e4-e5 without a point. The drawbacks of this
+plan are obvious: The king on e8 will be scrambling in the pocket, it's hard for
+Rh8 to get involved and the g8 might find it impossible to actually ever get
+out. } 6. O-O-O Bb7 7. f3 { SPARRING POSITI $146 } 7... Nd7 8. h4 { our play could not
+be more direct } 8... h5 (8... h6 9. Nh3 Rc8 10. Kb1 c5 11. g4 { we work to make
+the development of black's knight difficult } 11... Ngf6 (11... b4 { this move
+comes with drawbacks as our Bf1 now sniffs an attacking post on c4 } 12. Ne2 Qc7 13. g5 $1 { Black either
+invites our knight to g5 by taking or never develops their g8 knight } { [%c_effect g5;square;g5;type;GreatFind;persistent;true] }) 12. g5 hxg5 13. Nxg5 { this knight is a real terror for black's king }) (8... Ngf6 9. g4 { since h5 is a mortal threat black can't develop peaceably } 9... h6 10. Nh3 { with g5 next }) (8... c5 $2 { It's important to understand that our h5 is a mortal threat: it will develop our
+rook and hang a sword over black's kingside. } { [%c_effect c5;square;c5;type;Mistake;persistent;true] } 9. h5 cxd4 10. Bxd4 Bxd4 (10... Ngf6 11. hxg6 fxg6 12. Nh3 { The knight on g5 will be a terrorist. }) 11. Qxd4 Ngf6 12. hxg6 fxg6 13. Nh3 { The knight on g5 will be a terrorist. }) 9. Nh3 { Now we know where our knight wants to go. Black can now play various moves but
+we are guaranteed a sustained attack with our $146 on g5. } 9... Rc8 (9... Ngf6 10. Ng5 O-O 11. g4 $1 { [%c_effect g4;square;g4;type;GreatFind;persistent;true] } 11... hxg4 12. h5 $1 { [%c_effect h5;square;h5;type;GreatFind;persistent;true] } 12... gxh5 13. fxg4 $18 { A classic breakthrough, our queen is coming to h2 and
+black is going to get mated. }) (9... c5 10. dxc5 Nxc5 11. Ng5 Rc8 12. Bd4 Nf6 13. Nd5 { Let's talk about this move: our intention is not to double black's
+pawns but rather to prevent Qa5 and remove a key defender from black's king. } 13... O-O 14. g4 $1 { We've
+seen this before. } { [%c_effect g4;square;g4;type;GreatFind;persistent;true] } 14... hxg4 15. h5 gxh5 16. fxg4) 10. Ng5 c5 11. e5 $1 { This is the kind of
+violence black deserves. Maybe they'll develop their pieces in the next game. } { [%c_effect e5;square;e5;type;GreatFind;persistent;true] } 11... cxd4 (11... dxe5 12. dxe5 Bxe5 (12... Nxe5 $2 { allowing our R on d1 and the knight
+we have worked so hard for on g5 to fulfill their ambitions in life } { [%c_effect e5;square;e5;type;Mistake;persistent;true] } 13. Qxd8+ Rxd8 14. Rxd8+ Kxd8 15. f4 { There is no way to stop the rampaging knight. } 15... Ng4 16. Nxf7+ Ke8 17. Nxh8 Nxe3 18. Nxg6 $18 { we have more toys }) 13. Nxf7 Kxf7 14. Qxd7 Qxd7 15. Rxd7 $16 { rook on the seventh and several weaknesses to look
+at }) 12. e6 $1 { the
+diabolical point } { [%c_effect e6;square;e6;type;GreatFind;persistent;true] } 12... fxe6 (12... dxe3 13. exf7+ Kf8 14. Ne6+ Kxf7 15. Nxd8+ $18 { queen gone }) 13. Bxd4 e5 14. Bd3 Nf8 15. Bf2 { Black will be playing
+without their kingside pieces and the poor king will never be safe. }) 2. d4 Nf6 3. Nc3 g6 (3... c6 { The Prybyl } 4. f4 { To play this move we need to
+understand that the normal g6 leads to an Austrian attack where c6 doesn't
+really make sense. } 4... Qa5 { This is obviously kind of a strange move, but it's
+the most common approach by black here. } (4... g6 5. Nf3 Bg7 6. Bd3 O-O 7. O-O b5 8. e5 { Black's pieces don't make sense. Note that normally black would play
+not c6 but c5 to challenge our center. }) 5. Bd3 e5 6. Nf3 { White is much
+better: we have the center, development and a setup that should strike us as
+familiar. }) 4. Be3 { White has a simple plan: 0-0-0, Qd2-Bh6, h4-h5, wiggle the
+lady into h6 and then mate black's king. Let's contrast this with the Austrian
+attack (6.f4). That's a plan that plays for space, we play for mate. } 4... Bg7 (4... Ng4 { The problem with this move is that the knight won't be able to stay
+here, so we'll likely see a retreat with loss of tempo. } 5. Bg5 h6 6. Bh4 Bg7 7. Qd2 g5 (7... O-O 8. O-O-O c6 9. f4 $1 { we are now going to roll black up } { [%c_effect f4;square;f4;type;GreatFind;persistent;true] } 9... b5 10. e5 $1 { Ng4 is
+gone, h3 on its way } { [%c_effect e5;square;e5;type;GreatFind;persistent;true] }) 8. Bg3 { black will pay for g5 with a later h4 } 8... e5 9. d5 f5 { Every Russian schoolboy knows that they should take back with the
+g-pawn. But unfortunately for black the g-pawn is on g5 instead of g6. Now the
+light squares are critically weak. } 10. exf5 Bxf5 11. O-O-O Nd7 12. h4 { All of
+our pieces will be working while black's king has yet to find a safe space. }) (4... a6 5. Qd2 { The following sequence is like a machine: Qd2, 0-0-0, f3, h4.
+And we see it in most of our lines. We really only have to think when black
+responds to the mortal threat of h5. But we know what we should be thinking: how
+can we involve our knight on g1 $1 } 5... b5 6. f3 Nbd7 7. O-O-O Bb7 8. h4 h5 (8... c5 9. g4 { With an attack very similar to our Modern lines. }) 9. Nh3 Bg7 10. Ng5 { We have transposed to the modern lines with g6 and a6. }) (4... c6 { this is
+a fancy move that I have a lot of sympathy for. Black says: if you are going to
+put a bishop on h6 I don't see why I have to move mine to g7. } 5. Qd2 b5 6. f3 Nbd7 7. g4 { our play is simple and direct } 7... Nb6 (7... Bg7 8. h4 { Again: h5
+is a mortal threat. } 8... h5 9. g5 Nh7 10. f4 Nb6 11. b3 { With a fantastic
+game, note that if black wants to play with his $146 on h7 they'll have to weaken
+their king. }) 8. h4 h5 9. g5 Nfd7 10. d5 $1 { A very concrete move that needs to
+be remembered and studied. We break down the c6-b5 pawn chain and aim to use the
+d4 square as a trampoline. } { [%c_effect d5;square;d5;type;GreatFind;persistent;true] } 10... Ne5 (10... cxd5 11. Bd4 $1 { [%c_effect d4;square;d4;type;GreatFind;persistent;true] } 11... e5 12. Bxb6 Nxb6 13. Bxb5+ $18 { white wins a pawn and the attack continues }) 11. Bd4 $1 { [%c_effect d4;square;d4;type;GreatFind;persistent;true] } 11... b4 12. dxc6 $1 { [%c_effect c6;square;c6;type;GreatFind;persistent;true] } 12... bxc3 13. Qxc3 { f4 comes
+next with a great game }) 5. Qd2 c6 (5... O-O 6. O-O-O c6 7. Bh6 { A great rule of
+thumb in fianchetto positions: only spend a tempo on Bh6 if you are playing for
+mate. We are playing for mate. } 7... b5 8. f3 Qa5 9. h4 { The plan seen here
+shows the general mechanics of our mating attack: Bh6, h4-h5, bring the lady to
+h6. } 9... b4 10. Nb1 Qxa2 { Black may feel like they've accomplished something,
+but the queen is a long way from her man and we have the jump. } 11. h5 Nbd7 12. hxg6 fxg6 { only move } 13. Bxg7 Kxg7 14. Qh6+ { The lady has arrived. } 14... Kf7 15. Nh3 Ke8 16. Ng5 { Black is going to get mated. }) 6. Bh6 Bxh6 7. Qxh6 { SPARRING POSITI $146 } 7... Qa5 (7... b5 8. Bd3 Nbd7 9. Nf3 e5 10. h3 $16 { Black's
+king and coordination are permanently damaged. Now we can calmly castle short. }) 8. Bd3 c5 (8... Qh5 9. Qd2 O-O 10. h4 $1 { your queen will move and I will get
+in h5 $1- > } { [%c_effect h4;square;h4;type;GreatFind;persistent;true] }) (8... Nbd7 9. Nf3 Qh5 10. Qd2 O-O 11. h4 $1 { your queen will move and I will get
+in h5 $1- > } { [%c_effect h4;square;h4;type;GreatFind;persistent;true] }) 9. Nf3 cxd4 10. Nxd4 Qh5 (10... Qb6 11. O-O-O Nc6 12. Bb5 Bd7 13. Bxc6 bxc6 (13... Bxc6 14. Rhe1 { we are going to hurt black }) 14. Rhe1 { we are
+going to hurt black }) 11. Qxh5 Nxh5 12. Nd5 Kd8 13. Be2 { our attack continues } *

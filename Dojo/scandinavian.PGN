@@ -1,0 +1,51 @@
+[Event "Aggressive Repertoire for White"]
+[Site "https://lichess.org/study/I5492O7E/H3TFBCRc"]
+[Date "2023.04.25"]
+[White "Scandi"]
+[Result "*"]
+[Annotator "Jesse"]
+[UTCDate "2023.07.01"]
+[UTCTime "23:27:45"]
+[Variant "Standard"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line, Mieses Variation"]
+
+1. e4 d5 { I'm not sure why this opening exists but it's common enough that we
+should elaborate on the pain that we will inflict upon black's soul. } 2. exd5 Qxd5 (2... Nf6 { If I had to play the Scandi I'd at least try this. } 3. d4 Nxd5 (3... Bg4 4. Nf3 Nxd5 { transposes }) 4. Nf3 { what's nice about this move is that
+we have a simple plan against Bg4 - really the only move we should be concerned
+with } 4... Bg4 5. Be2 { We intend Ne5 at our convenience. SPARRING POSITI $146 } 5... e6 6. O-O Be7 7. h3 Bh5 (7... Bxf3 8. Bxf3 $16 { This loss of the light squares is
+common in the Scandi. Our basic plan here is simple: after black loses a tempo
+dealing with the threat of c4 we will put our pawns on dark squares to
+compliment our unopposed bishop (c3) and start bringing our knight in. Black's
+long term problem is that it's always bad news if they open the position for our
+monster Bf3. }) 8. Ne5 { note that we have a similar plan against the Alehkine } 8... Bxe2 9. Qxe2 { With a very unpleasant position for black, they'd like to
+trade on e5 but then a big fat pawn arrives on e5 and our rook is going to d1
+anyway. Note that when they take on e5 we will attack the kingside like in a
+French structure. }) 3. Nc3 Qa5 (3... Qd8 { such a sad move } 4. d4 Nf6 5. Nf3 Bg4 { The only move we should be concerned about as black needs to trade some pieces
+to relieve his cramp. } (5... c6 6. Bc4 { With a great attack because Bg4 isn't
+playable. } 6... Bg4 $2 { [%c_effect g4;square;g4;type;Mistake;persistent;true] } 7. Bxf7+ Kxf7 8. Ne5+ $18 { Ye olde trick. }) 6. h3 Bxf3 (6... Bh5 7. g4 Bg6 8. Ne5 { The light square bishop is now a victim. } 8... e6 9. Bg2 c6 10. h4 $18 { h5 is a
+crushing threat }) 7. Qxf3 c6 8. Be3 $16 { With a nice lead in development. Our long
+term goal will be to open the position for our unopposed light square bishop. }) (3... Qd6 { Around 2005 the freaks of the world waved this flag } 4. d4 Nf6 5. Nf3 { SPARRING POSITI $146 } 5... Bg4 (5... a6 6. g3 { a6 works against Bc4 with its b5
+intention, so we go the other way and enable a later Bf4. } 6... Bg4 7. Bg2 Nc6 8. O-O O-O-O 9. h3 $1 { wtih a big attack } { [%c_effect h3;square;h3;type;GreatFind;persistent;true] } 9... Bxf3 10. Qxf3 Qxd4 11. Rd1 Qc4 12. Bg5 { Black is going
+to get mated. Note the power our unopposed bishop on g2, it's a common asset vs
+the Scandi. }) 6. h3 { We also ask this question in the main line. What we need to
+understand is that the problem with black retreating is they will then get
+rolled up. } 6... Bxf3 (6... Bh5 7. g4 Bg6 8. Bg2 Nbd7 9. O-O { Black can try
+several moves here, c6, e6, 0-0-0 but our plan is the same: Nh4, f4-f5.
+clickable variation } 9... c6 10. Nh4 e6 11. f4 O-O-O 12. f5 exf5 13. Nxf5 Bxf5 14. Rxf5 Nb6 15. g5 $16 { With a lovely initiative. Note again the familiar
+long-term plan: open the position for our unopposed light square bishop. }) 7. Qxf3 c6 8. Bf4 $1 { hello } { [%c_effect f4;square;f4;type;GreatFind;persistent;true] } 8... Qxd4 9. Nb5 $1 $18 { [%c_effect b5;square;b5;type;GreatFind;persistent;true] } 9... Qxb2 (9... cxb5 { UPDATE } 10. Bxb5+ Nbd7 11. Qxb7 { with a Morphy pin on the
+d7 knight $1 } 11... Rd8 12. Bc7 $18 { Like in Morphy-Allies 1854 the R will land on
+d1 and black doesn't have enough time to unravel. }) 10. Nc7+ Kd8 11. Rd1+ Nbd7 12. Nxa8 $18 { Black has lost their coconuts. }) 4. d4 Nf6 5. Nf3 c6 { This is the
+move Scandi players love. } (5... Bg4 { The most terrible thing about the Scandi
+is that this natural move (trade some pieces, consolidate) is not so hot } 6. h3 Bh5 (6... Bxf3 7. Qxf3 c6 8. Bd2 Nbd7 9. O-O-O e6 10. Kb1 { We will be looking
+to play g4/g5 and then h4-h5 with a strong attack. Again: look to open lines for
+our unopposed light square bishop. }) 7. g4 Bg6 8. Ne5 Nbd7 (8... c6 { Black's
+queen needs a way out, but it's a big tempo to lose here. } 9. h4 Nbd7 10. Nc4 Qc7 11. h5 Be4 12. Nxe4 Nxe4 13. Qf3 Nd6 14. Bf4 $18 { We castle long next and
+enjoy all the advantages in the position, especially having a safer king. }) 9. Nc4 { Black's queen is going to be uncomfortable. } 9... Qa6 { Obviously not a
+comfortable square. Most Scandi players have trained themselves to lose a tempo
+with c6 to avoid this kind of hot mess. } 10. Bf4 { threatening Nd6 } 10... Qe6+ 11. Ne5 $18 { Black is lost because his f8 bishop looks like it got buried in an
+avalanche. }) 6. Bd2 { Simple chess, Qa5 will owe us more time. \"Don't develop
+your queen early.\" SPARRING POSITI $146 } 6... Bg4 (6... Bf5 7. Bc4 { The threat of
+Nd5 jumpstarts our attack. } 7... Nbd7 (7... e6 8. Qe2 Bxc2 (8... Nbd7 { transposes to 7...Nbd7 }) 9. d5 $18 { black will not survive this one }) 8. Qe2 e6 (8... Bxc2 9. Nb5 Qd8 10. Nd6#) 9. d5 $1 { All of our pieces will be working
+and black isn't going to castle easily. } { [%c_effect d5;square;d5;type;GreatFind;persistent;true] }) 7. h3 Bh5 8. g4 Bg6 9. Ne5 Nbd7 10. f4 e6 11. h4 { A common problem for black in the Scandi: Bg6 and the light squares
+are a victim. } *

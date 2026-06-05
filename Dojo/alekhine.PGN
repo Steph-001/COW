@@ -1,0 +1,74 @@
+[Event "Aggressive Repertoire for White"]
+[Site "https://lichess.org/study/I5492O7E/a3VF9Otx"]
+[Date "2023.01.26"]
+[White "Alekhine"]
+[Result "*"]
+[Annotator "Jesse"]
+[UTCDate "2023.07.01"]
+[UTCTime "23:21:20"]
+[Variant "Standard"]
+[ECO "B04"]
+[Opening "Alekhine Defense: Modern Variation, Larsen Variation"]
+
+1. e4 Nf6 $6 { An
+attacking player's reaction to this move should be: I can now turn this defender
+of black's king into a nag. } { [%c_effect f6;square;f6;type;Inaccuracy;persistent;true] } 2. e5 Nd5 3. d4 d6 4. Nf3 $1 { Strategy. We tell black that our e5
+pawn is the tip of our spear and it's not going away. We also say that the
+kingside is our side and black's force count is low there. If they take we
+intend to recapture with the knight. Making it easy. We just need to understand
+the couple tries black has to undermine our e5 strongpoint. Style. We DO NOT
+play for space with c4 and f4. We are playing for mate. } { [%c_effect f3;square;f3;type;GreatFind;persistent;true] } 4... dxe5 (4... Bg4 { The second we see this move we should think: \"light squares\". We'll see
+several variations where black will be missing their bishop. } 5. Be2 e6 { A
+secret of the opening: this e6 move is not just about developing their pieces,
+black has to worry over us getting e6 in $1 } (5... Nc6 6. c4 Nb6 7. e6 $1 { A familiar theme from
+our system against the Caro. It's not just that black's king is weak but that
+it's difficult to develop their kingside. } { [%c_effect e6;square;e6;type;GreatFind;persistent;true] } 7... fxe6 (7... Bxe6 $2 { [%c_effect e6;square;e6;type;Mistake;persistent;true] } 8. d5 { whoops }) 8. O-O { all of
+black's pieces terrible are and he's going to get mated } 8... g6 9. Nbd2 $1 { We will win the light
+squares with h3 and quickly bring our sad b1 knight into g5. } { [%c_effect d2;square;d2;type;GreatFind;persistent;true] } 9... Bg7 10. h3 Bxf3 11. Nxf3 O-O 12. d5 exd5 13. cxd5 Nb4 14. Ng5 $16 { We gain an octopus on e6
+and the light squares are our freeway to the black king. }) (5... Nd7 6. c4 N5b6 7. Ng5 $1 { Note that Ng5
+doesn't lose a tempo: when black takes on e2 they develop our queen. } { [%c_effect g5;square;g5;type;GreatFind;persistent;true] } 7... Bxe2 8. Qxe2 e6 9. Qf3 Qe7 10. Qxb7 { We have the pawn and the compensation. Note that
+by taking the pawn we've destroyed the light squares on black's queenside. } 10... dxe5 $2 { [%c_effect e5;square;e5;type;Mistake;persistent;true] } 11. c5 $18 { Is the tactical point, black will lose their entire queenside. }) (5... g6 6. Ng5 { A key idea of ours against Bg4. Note that even though we are moving a
+developed piece twice the move actually gains a tempo: black gives us one when
+we get Qxe2 for free and has to play e6 because our own threat of e6 is too
+powerful. } 6... Bxe2 7. Qxe2 e6 8. Qf3 Qd7 9. c4 Nb6 10. Ne4 Bg7 11. Nf6+ $18 { So
+much pain on the dark squares. }) 6. O-O Be7 (6... dxe5 7. Nxe5 $1 { This recapture is at the heart of
+our setup. } { [%c_effect e5;square;e5;type;GreatFind;persistent;true] } 7... Bxe2 8. Qxe2 $16 { White's position is a dream, note that white
+won a key tempo when black traded on e2. Note as well that we have a very
+similar position vs the Scandi. }) 7. h3 { SPARRING POSITI $146 } 7... Bh5 { If black
+just goes back then we claim that h3 was a useful move for us. } (7... Bxf3 8. Bxf3 { We saw this dynamic in the Scandi too, we play to open the position for
+our unopposed light square bishop. } 8... Nc6 9. exd6 Qxd6 10. c3 { We put our
+pawn on the opposite color of our unopposed bishop on f3 so we can control all
+the squares. } 10... O-O 11. Nd2 $16 { We will strive to attack on the light squares
+where black is down a piece. }) 8. c4 Nb6 9. Nc3 dxe5 (9... O-O 10. Be3 { It's
+hard for black to move. Note that Nb6 is terrible and black's Q doesn't have a
+natural square. } 10... d5 (10... Nc6 11. exd6 cxd6 (11... Bxd6 $2 { [%c_effect d6;square;d6;type;Mistake;persistent;true] } 12. c5 $18 { Welcome to the dojo }) 12. d5 $16 { Black has to compromise their position, Be3 is a god, and Nb6 should make
+black question ever playing the Alekhine's in the first place. }) 11. c5 Bxf3 12. Bxf3 Nc4 13. Bf4 $16 { Black's pieces are miserable and all we have to know is that
+they can't take the pawn. } 13... Nxb2 $2 { [%c_effect b2;square;b2;type;Mistake;persistent;true] } 14. Qb1 Nc4 15. Qxb7 Nd7 16. Nxd5 $1 { Black's light squares
+collapse. } { [%c_effect d5;square;d5;type;GreatFind;persistent;true] } 16... exd5 17. Qxd5 Na5 $18 (17... Na3 18. Qb3 { We get our piece
+back. }) 18. c6 $18 { We get our piece back. }) 10. Nxe5 { We always want this
+recapture. } 10... Bxe2 11. Qxe2 $1 $16 { Again: this trade won us a tempo.
+We only need to know that black will pay for taking our d-pawn. If black doesn't
+take then Rd1 comes and all of our pieces are great and Nb6 will tell its owner
+to never play the Alekhine again. } { [%c_effect e2;square;e2;type;GreatFind;persistent;true] } 11... Qxd4 $2 { This leads to a mountain of pain for
+black } { [%c_effect d4;square;d4;type;Mistake;persistent;true] } 12. Rd1 Qc5 13. b4 $1 { [%c_effect b4;square;b4;type;GreatFind;persistent;true] } 13... Qxb4 14. Nb5 $18 { And
+black has two problems that can't be solved with one move: Nxc7 and Ba3. }) (4... g6 5. Bc4 { Note that c4 is not our move. c4 plays for space, we are playing for
+mate. } 5... Nb6 6. Bb3 Bg7 7. Ng5 $1 { SPARRING POSITI $146 } { [%c_effect g5;square;g5;type;GreatFind;persistent;true] } 7... e6 (7... O-O 8. e6 { A dream attack on the light squares. }) (7... d5 8. f4 O-O 9. O-O { Black's king is like a lonsome dude in a shark cage, and they'll have to open
+the escapse hatch with f6 or h6 if they want our knight on g5 to leave. }) 8. Qf3 O-O 9. Qh3 $1 { Key move. } { [%c_effect h3;square;h3;type;GreatFind;persistent;true] } 9... h6 10. Nf3 { With a tremendous attack. We are obliged to do a death dance
+every time our Q can park herself on our strong side. }) (4... Nd7 5. c4 Nb4 6. e6 $1 { Hello, old friend. } { [%c_effect e6;square;e6;type;GreatFind;persistent;true] } 6... fxe6 7. Nc3 { We've seen this party before. Black has to solve: Bc8, Bf8,
+Qd8, Ra8 and Rh8 before the king gets mated. } 7... g6 8. Ng5 Nb6 9. a3 Nc6 10. d5 exd5 11. cxd5 Ne5 12. f4 Nf7 13. Bb5+ { I'll take the light squares for 400,
+Bob. } 13... Bd7 14. Ne6 $18 { that hurts }) (4... Nc6 5. c4 Nb6 6. e6 $1 { Hello, old friend. } { [%c_effect e6;square;e6;type;GreatFind;persistent;true] } 6... fxe6 (6... Bxe6 $2 { [%c_effect e6;square;e6;type;Mistake;persistent;true] } 7. d5 $18) 7. Nc3 { With a great attack, all of black's minors are terrible and their king doesn't
+have a home. } 7... g6 8. h4 { hello friend } 8... Bg7 9. h5 { black is going to
+get mated }) 5. Nxe5 Nd7 { I give this as the main line as challengin our strong
+knight seems the only sensible way to play. Unfortunately for black there's a
+problem. } (5... g6 6. Bc4 $1 { We have a hidden threat. } { [%c_effect c4;square;c4;type;GreatFind;persistent;true] } 6... c6 { Always celebrate when black loses a tempo. } (6... Bg7 $2 { [%c_effect g7;square;g7;type;Mistake;persistent;true] } 7. Nxf7 $1 { [%c_effect f7;square;f7;type;GreatFind;persistent;true] } 7... Kxf7 8. Qf3+ Ke6 9. Qe4+ $18 { We regain the piece with interest. }) 7. O-O Bg7 8. Re1 { ez chess }) (5... c6 { Obviously a sad move, black would like to play Nd7 immediately, but we see what
+that gets him in the main line. } 6. Nc3 { white has several moves here, most play
+for space, this one plays for mate } 6... Nd7 (6... Nxc3 7. bxc3 Nd7 8. Nf3 $1 { No trade for you $1 We
+will build our familiar formation with Bd3, 0-0 and Re1. } { [%c_effect f3;square;f3;type;GreatFind;persistent;true] }) 7. Nxd5 cxd5 (7... Nxe5 8. dxe5 Qxd5 9. Qxd5 cxd5 10. Be3 { With a pleasant endgame (because we are
+up in time) where we will continue to attack. Our king will go to d2. }) 8. Bd3 Nxe5 9. dxe5 { With a formation familiar to us from our Caro and French
+systems. }) 6. Nxf7 $1 { Time to take the king for a walk } { [%c_effect f7;square;f7;type;GreatFind;persistent;true] } 6... Kxf7 7. Qh5+ Ke6 { in the pre-computer era
+many pre-arranged draws saw Qg4, Kf7, Qh5, Ke6 } 8. c4 $1 { SPARRING POSITI $146 Attacking players
+should use this as a training position, it's not just about learning an opening
+line $1 } { [%c_effect c4;square;c4;type;GreatFind;persistent;true] } 8... N5f6 (8... Nb4 9. a3 $1 { Mate wins the game. } { [%c_effect a3;square;a3;type;GreatFind;persistent;true] } 9... Nc2+ 10. Kd1 Nxa1 11. Qd5+ Kf6 12. Bg5+ Kg6 13. Bd3+ Kh5 14. g4+ Kxg4 15. Qf5+ Kh5 16. Be2#) 9. d5+ Kd6 10. Qf7 $1 { key move } { [%c_effect f7;square;f7;type;GreatFind;persistent;true] } 10... Ne5 11. Bf4 { pin
+and win } 11... g5 { as Nc3 and 0-0-0 are coming black has to challenge the pin
+immediately } 12. c5+ { Check to the miserable king } 12... Kxc5 13. Bxe5 Qxd5 14. b4+ Kc6 15. b5+ Kc5 16. Qxd5+ Kxd5 17. Bxc7 { Our attack against the black king
+continues. } *
